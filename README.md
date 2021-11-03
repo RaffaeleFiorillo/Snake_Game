@@ -1,5 +1,5 @@
 # Snake_Game
-Simple implementation of the classic Snake Game in under 100 lines of python code
+Simple implementation of the classic Snake Game in under 100 lines of python code.
 
 ## Printscreen of the game:
 ![snake gameplay print](https://user-images.githubusercontent.com/75253335/140090755-c37a3d47-4c11-43f5-b0ea-a222a417f737.png)
@@ -9,10 +9,13 @@ Simple implementation of the classic Snake Game in under 100 lines of python cod
  - pygame;
 
 ## Main Goal:
- Eat as much food as possible;
+ Eat as much food as possible.
  
 ## Dying Condition:
- The head of the snake must touch any other part of the snake's body;
+ The head of the snake must touch any other part of the snake's body.
+ 
+## Score:
+ The score can be seen in the top left corner of the window, in red numbers. It represents the size of the snake (or how much food has been eaten).
 
 ## Description:
  - The snake moves in the same direction until one of the arrows is pressed;
