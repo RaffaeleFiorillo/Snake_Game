@@ -1,5 +1,5 @@
 # Snake_Game
-Simple implementation of the classic Snake Game in under 100 lines of python code.
+Simple python implementation of the classic Snake Game in under 100 lines of code.
 
 ## Printscreen of the game:
 ![snake gameplay print](https://user-images.githubusercontent.com/75253335/140090755-c37a3d47-4c11-43f5-b0ea-a222a417f737.png)
